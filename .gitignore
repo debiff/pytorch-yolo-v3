@@ -99,3 +99,13 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+\.idea/misc\.xml
+
+\.idea/modules\.xml
+
+\.idea/pytorch-yolo-v3\.iml
+
+\.idea/vcs\.xml
+
+\.idea/workspace\.xml
